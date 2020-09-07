@@ -1,2 +1,6 @@
 AAAAAAAAAAAAAAAAAAAAAAAAA
+
 while bug-fix was going on this line git added.
+
+line from bug-fix branch
+
